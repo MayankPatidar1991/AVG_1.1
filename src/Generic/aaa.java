@@ -1,5 +1,6 @@
 package Generic;
 
-public class aaa {
+public class aaa 
+{
 
 }
